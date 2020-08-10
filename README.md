@@ -1,2 +1,3 @@
 # Verano_Delfin
 Metodología para recrear los resultados del trabajo generado en el verano de investigación 2020
+El primer documento que se tiene que compilar es el llamado pruebascript1mes, es el encargado de generar los histogramas de cada estado, calculando las correlaciones que existen con el delito número [1], de momento solo funciona estado por estado, esto para que no demore demasiado el tiempo de compilación, sin embargo, se puede hacer para todos los municipios agregando un loop for con el vector c(1:32), aplicado a la linea 15 # datostotales<-datostotales[clave_ent==32] # cambiar el 32 por la varriable principal del loop for.
