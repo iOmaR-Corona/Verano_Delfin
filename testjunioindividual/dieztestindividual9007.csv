@@ -1,0 +1,61 @@
+ppcluster4
+  predictedround actualround
+1             10          16
+2             26          16
+3             23          15
+4             10          16
+0.2502964 
+  predictedround actualround
+1              9          16
+2             10          16
+3             11          15
+4             13          16
+0.168939 
+  predictedround actualround
+1             11          16
+2             11          16
+3             10          15
+4              7          16
+0.2044044 
+  predictedround actualround
+1             15          16
+2             10          16
+3             15          15
+4             17          16
+0.07579485 
+  predictedround actualround
+1             15          16
+2             20          16
+3             18          15
+4             11          16
+0.1114051 
+  predictedround actualround
+1             17          16
+2             21          16
+3             19          15
+4             20          16
+0.1178495 
+  predictedround actualround
+1             12          16
+2             12          16
+3             11          15
+4             14          16
+0.1131773 
+  predictedround actualround
+1             10          16
+2              8          16
+3              9          15
+4             10          16
+0.2211585 
+  predictedround actualround
+1             15          16
+2             10          16
+3             19          15
+4             11          16
+0.1399289 
+  predictedround actualround
+1             12          16
+2             15          16
+3             16          15
+4             10          16
+0.1057926 
